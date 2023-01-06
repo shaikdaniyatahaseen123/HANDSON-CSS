@@ -1,0 +1,6 @@
+#example1 {
+  background-image: url("https://tinyurl.com/2jatxj48"), url("https://tinyurl.com/48k63tme");
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, no-repeat;
+  padding: 15px;
+}
